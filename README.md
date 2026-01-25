@@ -14,7 +14,7 @@ This project builds a regression model to predict AQI (Air Quality Index) from m
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/AtmWatch-AQI-Prediction.git
+git clone https://github.com/mdridwanulbanna/Atmosphere.git
 cd AtmWatch-AQI-Prediction
 ```
 
